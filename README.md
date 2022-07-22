@@ -15,3 +15,5 @@ Git, React, Redux, NodeJs+Express, GNU Toolkit, GCP, Google AutoML, NestJS, Djan
 ### Most recent professional stack
 Typescript, NextJS, React
 
+### Thought this was cool
+![Gif of old porfolio website](./portfolio.gif)
