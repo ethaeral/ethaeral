@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Rich 
 
-### Mostly self taught, but bootcamp graduated
+### Mostly self taught, but bootcamp graduated - more than just frontend
 - ❤️ I enjoy simple readable code and pretty documentation.
 - 🌱 I’m currently learning data science in my free time.
 - ⚡ Fun fact: I compete in CS:GO and love parsing data to analyze game play!
