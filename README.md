@@ -19,4 +19,4 @@ Typescript, NextJS, React
 ![Gif of old porfolio website](./portfolio.gif)
 
 ### Currently Working On
-- Audio replacement web app on DEM files for CSGO demos called [Sparrow](https://github.com/SparrowComm) 
+- Audio replacement web app on DEM files for CSGO demos called [Sparrow](https://github.com/SparrowComm), built in golang.
