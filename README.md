@@ -16,7 +16,7 @@ Git, React, Redux, NodeJs+Express, GNU Toolkit, GCP, Google AutoML, NestJS, Djan
 Typescript, NextJS, React
 
 ### Currently Working On
-- A [UI component library]() that combines Material Design, Neumorphism, and Glassmorphism for a revamp of my perrsonal website.
+- A [react component library](https://github.com/ethaeral/neuglassui) that combines Material Design, Neumorphism, and Glassmorphism for a revamp of my perrsonal website.
 
 ### My old website I made while I was in my fullstack cert program
 ![Gif of old porfolio website](./portfolio.gif)
