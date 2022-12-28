@@ -1,10 +1,10 @@
-# 👋 Hey there, I'm Rich 
+# 👋 Hey there, I'm Ethaeral - I go by Rich as well.
 
-### Mostly self taught, but bootcamp graduated - more than just frontend
+### Mostly self taught and becoming a certification collector
 - ❤️ I enjoy simple readable code and pretty documentation.
-- 🌱 I’m currently learning data science in my free time.
+- 🌱 I’m currently learning applied data science - MIT'23
 - ⚡ Fun fact: I compete in CS:GO and love parsing data to analyze game play!
-- 🎵 My current playlist: [here](https://open.spotify.com/playlist/3hKF5C1QM943NRs47wgZCz?si=6839f37923c143d1)
+- 🎵 My current playlist: [here](https://open.spotify.com/playlist/3yLCXZUiAJrmFQrM7DI8tH?si=f8cd957792a54d38)
 
 ### Languages and tools
 #### Programming Languages: 
@@ -15,8 +15,8 @@ Git, React, Redux, NodeJs+Express, GNU Toolkit, GCP, Google AutoML, NestJS, Djan
 ### Most recent professional stack
 Typescript, NextJS, React
 
-### Thought this was cool
-![Gif of old porfolio website](./portfolio.gif)
-
 ### Currently Working On
-- Audio replacement web app on DEM files for CSGO demos called [Sparrow](https://github.com/SparrowComm), built in golang.
+- A [UI component library]() that combines Material Design, Neumorphism, and Glassmorphism for a revamp of my perrsonal website.
+
+### My old website I made while I was in my fullstack cert program
+![Gif of old porfolio website](./portfolio.gif)
