@@ -1,22 +1,22 @@
-# 👋 Hey there, I'm Ethaeral - I go by Rich as well.
+# 👋 Hey there, I'm Ethaeral.
 
-### Mostly self taught and becoming a certification collector
+### Self taught and a continuous learner
 - ❤️ I enjoy simple readable code and pretty documentation.
-- 🌱 I’m currently learning applied data science - MIT'23
-- ⚡ Fun fact: I compete in CS:GO and love parsing data to analyze game play!
-- 🎵 My current playlist: [here](https://open.spotify.com/playlist/3yLCXZUiAJrmFQrM7DI8tH?si=f8cd957792a54d38)
+- 🌱 Recent grad of MIT Applied Data Science
+- ⚡ Celtics Fan, CSGO and COD player!
+- 🎵 My current blog post: [here]()
 
 ### Languages and tools
 #### Programming Languages: 
 JavaScript, TypeScript, Python, C, C++, Java, Golang
 #### Technologies and Frameworks: 
-Git, React, Redux, NodeJs+Express, GNU Toolkit, GCP, Google AutoML, NestJS, Django, Flask, Jupyter Notebook, PostgreSQL, Apollo GraphQL, SQLite, Jest, Linux, HTML, CSS, LESS, SCSS, Springboot, NextJS
+Git, React, Redux, NodeJs+Express, GNU Toolkit, GCP, Google AutoML, NestJS, Django, Flask, Jupyter Notebook, PostgreSQL, Apollo GraphQL, SQLite, Jest, Linux, HTML, CSS, LESS, SCSS, Springboot, NextJS, Nuxt3, Vue, DS toolkit
 
 ### Most recent professional stack
 Typescript, NextJS, React
 
 ### Currently Working On
-- A [react component library](https://github.com/ethaeral/neuglassui) that combines Material Design, Neumorphism, and Glassmorphism for a revamp of my perrsonal website.
+Transitioning from Software developer to Machine Learning Engineer
 
 ### My old website I made while I was in my fullstack cert program
 ![Gif of old porfolio website](./portfolio.gif)
