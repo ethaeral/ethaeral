@@ -4,7 +4,6 @@
 - ❤️ I enjoy simple readable code and pretty documentation.
 - 🌱 Recent grad of MIT Applied Data Science
 - ⚡ Celtics Fan, CSGO and COD player!
-- 🎵 My current blog post: [here]()
 
 ### Languages and tools
 #### Programming Languages: 
