@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ethaeral.
 
-### Self taught and a continuous learner
+### I love finding hidden patterns and creating something meaningful
 - 💼 Software and ML Consultant at Cyberlete.io
 - ❤️ I enjoy simple readable code and pretty documentation.
 - 🌱 Recent grad of MIT Applied Data Science Program
