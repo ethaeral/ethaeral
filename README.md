@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ethaeral.
 
 ### I love finding hidden patterns and creating something meaningful
-- 💼 Software and ML Consultant at Cyberlete.io
+- 💼 Software Consultant
 - ❤️ I enjoy simple readable code and pretty documentation.
 - 🌱 Recent grad of MIT Applied Data Science Program
 - ⚡ Celtics Fan, CSGO and COD player!
