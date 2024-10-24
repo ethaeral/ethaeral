@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ethaeral.
 
 ### I love finding hidden patterns and creating something meaningful
-- 💼 Software Consultant
+- 💼 Software Consultant and Data Inights Lead for Net Impact Boston
 - ❤️ I enjoy simple readable code and pretty documentation.
 - 🌱 Recent grad of MIT Applied Data Science Program
 - ⚡ Celtics Fan, CSGO and COD player!
