@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ethaeral.
+# 👋 Hey there, Rich @ Ethaeral.
 
 ### I love finding hidden patterns and creating something meaningful
 - 💼 Software Consultant and Data Inights Lead for Net Impact Boston
