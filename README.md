@@ -13,4 +13,4 @@ JavaScript, TypeScript, Python, C, C++, Java, Golang, Scala
 Git, React, Redux, NodeJs+Express, GNU Toolkit, GCP, Google AutoML, NestJS, Django, Flask, Jupyter Notebook, PostgreSQL, Apollo GraphQL, SQLite, Jest, Linux, HTML, CSS, LESS, SCSS, Springboot, NextJS, Nuxt3, Vue, DS toolkit
 
 ### Currently Working On
-- Exploring finanacial data and building out rhizae delta
+- Exploring financial data and building out rhizae delta
