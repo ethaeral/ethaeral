@@ -1,10 +1,5 @@
 <h1  style="color:#3E8E7E;">Hey, I’m <strong>Richany</strong></h1>
 
-<p align="center" style="color:#E3B341;">
-🌍 Civic Tech · Data Storytelling · Ethical Design 🌍
-</br>
-</p>
-
 ### <span style="color:#3E8E7E;">💡 About Me</span>
 
 - 💼 Software Consultant
