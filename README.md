@@ -5,8 +5,6 @@
 </br>
 </p>
 
----
-
 ### <span style="color:#3E8E7E;">💡 About Me</span>
 
 - 💼 Software Consultant
@@ -14,13 +12,9 @@
 - ⚡ Math major exploring alternative data & policy-driven insights  
 - 🔍 I love finding patterns and applying research to real problems
 
----
-
 ### <span style="color:#3E8E7E;">🚀 Currently Building</span>
 
 **Rhizae Mutual** — exploring where civic tech can empower communities and transparency
-
----
 
 ### <span style="color:#3E8E7E;">🧠 What's fun for me</span>
 
@@ -32,15 +26,11 @@
 I like graph databases, ArcGIS data, clustering algorithms, and route optimization. Right now most of my work does go into my classics - React, but I am really enjoying Svelte. 
 </span>
 
----
-
 ### <span style="color:#3E8E7E;">🪴 What I find interesting</span>
 
 - More sustainable, community-centered economies  
 - The hidden, compounding impacts of redlining  
 - Optimizing systems by connecting what already exists
-
----
 
 ### <span style="color:#3E8E7E;">🍄 Ask me about my work</span>
 
