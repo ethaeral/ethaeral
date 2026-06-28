@@ -34,8 +34,9 @@ I like graph databases, ArcGIS data, clustering algorithms, and route optimizati
 - Music Recommendation Model
 
 ### My happy place
-<img width="828" height="840" alt="FJCaxE7UYAYmELc" src="https://github.com/user-attachments/assets/92e7d5f7-5e51-4102-bedc-a15d9d5a1d88" />
+<img width="414" height="420" alt="FJCaxE7UYAYmELc" src="https://github.com/user-attachments/assets/92e7d5f7-5e51-4102-bedc-a15d9d5a1d88" />
+
 ### Reality
-<img width="1038" height="843" alt="Group 5 (1)" src="https://github.com/user-attachments/assets/8f88600e-5b03-48eb-a86e-50fc58f625cb" />
+<img width="415" height="337" alt="Group 5 (1)" src="https://github.com/user-attachments/assets/8f88600e-5b03-48eb-a86e-50fc58f625cb" />
 
 
